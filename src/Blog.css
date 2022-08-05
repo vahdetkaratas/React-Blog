@@ -1,0 +1,60 @@
+
+/* latin */
+@font-face {
+  font-family: 'Grape Nuts';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: urlurl('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+html,
+body {
+  background-color: #326960;
+  font-family: Grape Nuts, cursive;
+}
+.dropdown-menu,
+.card {
+  border-radius: 10px;
+  background-color: #60c7b6;
+}
+.nav-link,
+a:visited,
+a:hover,
+a:link {
+  color: rgb(12, 11, 11);
+  text-decoration: none;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 40px;
+}
+.call {
+  font-size: 30px;
+}
+.date,
+.nav {
+  font-size: 20px;
+}
+.blog,
+li,
+.code,
+p {
+  font-size: 24px;
+}
+.d {
+  font-size: 14px;
+}
+.dotted {
+  border-style: dotted;
+}
+.dashed {
+  border-style: dashed;
+}
